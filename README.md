@@ -4,7 +4,7 @@ It's an app as "Notes" but it's desktop. Remember Windows 7 app notes? That's it
 Functions: Note, Save, move
 
 Support or you founded any bugs:
-TikTok: @Lixor189;
-Telegram: @Lixor189;
-Discord: lixor189;
+TikTok: @l1xor_;
+Telegram: @l1xor;
+Discord: l1xor;
 Gmail (Not recommended - I can don't answer): Vitaliyvinarskij6@gmail.com
